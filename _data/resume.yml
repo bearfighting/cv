@@ -18,7 +18,7 @@ contact: #联系方式连接等3~5行
 - text: "https://bearfighting.github.io/"
   href: 'https://bearfighting.github.io/'
   icon: 'icons/web.svg'
-- text: "GitHubID"
+- text: "bearfighting"
   href: 'https://github.com/bearfighting'
   icon: "icons/github.svg"
   attr: 'target="_blank"' #新标签页打开
@@ -56,7 +56,18 @@ main: #简历主要内容，
   - title: Cadre d'application
     summary: connaissance de base pour Flask et Spring Boot
 
-- type: experience
+- type: Expérience de programmation
+  content:
+  - title: En C/C++
+    sub: Jeu de platforme
+    summary: Un jeu simple réalisé avec le cadre d'application de SDL2 en C.
+    sub: Arbre AVL
+    summary: Une réalisation de Map STL en Arbre AVL et son application.
+  - title: En Java
+    sub: Application en Java Swing
+    summary: Une application simple qui reçoit les données fournies par l'utilisateur et visualiser le résultat après certaines calculations. 
+
+- type: Experience
   name: 经验
   content:
   - title: 职位
