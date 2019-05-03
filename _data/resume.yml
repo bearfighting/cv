@@ -44,9 +44,11 @@ main: #简历主要内容，
   content:
   - title: langue de 
     items: #itmems 可以小块的方式显示
-    - 汉语
-    - 语言2
-    - 语言3
+    - Java
+    - C
+    - C++
+    - Python 
+    - JavaScript
   - title: Skill Group
     summary: Consectetur, Adipiscing, Elit
 
