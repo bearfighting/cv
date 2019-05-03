@@ -74,41 +74,23 @@ main: #简历主要内容，
   - title: Asistant de directeur de projet
     sub: China CAMC Engineering Co., Ltd. 
     duration: "mai 2011 - mai 2017"
-    tags:
-    - 标签
-    summary: 职务或者工作总结(自动折叠)
+    summary: Exploitation du marché et exécution des projets en Génie Civil principalement dans les pays africains.
 
 #others 其他简略内容(列表)
 others: #其他列表显示
-- type: others #ID可以为空
-  name: '其他'
+- type: divers #ID可以为空
+  name: 'loisirs'
   content: #选择需要的格式
-  - 单行文字
-  - title: "加粗:"
-    text: "列表项二"
-  - title: "兴趣:"
-    items: #单行列表
-    - 睡觉
-    - 吃饭
-    - coding
-  - title: 列表
-    list:
-    - 第一项
-    - 第二项
-#- type: 
-#  name: '其他'
-#  content: #选择需要的格式
-#  - 单行文字
-#  - 如果有可以继续添加
+  - Pingpong, Go(jeu), Cuisine
 
 #footer 脚注，打印版和web版不同不显示    
 footer: #脚注多组
   print: #打印版markdown或者html
   screen:
-  - text: "简历脚注"
+  - text: "note"
   #   href: '/'
-  - text: "Made with &hearts; by NewFuture"
-    href: "https://github.com/NewFuture/CV/"
+  - text: "Ecrit par XING, WENFENG"
+    href: "https://github.com/bearfighting"
 
 #页面额外js脚本，如xx统计
 scripts:
