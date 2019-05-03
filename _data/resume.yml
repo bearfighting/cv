@@ -55,7 +55,7 @@ main: #简历主要内容，
   - title: Cadre d'application
     summary: connaissance de base pour Flask et Spring Boot
 
-- type: Expérience de programmation
+- type: Expérience
   content:
   - title: C
     sub: Jeu de platforme
@@ -68,12 +68,12 @@ main: #简历主要内容，
     summary: Une application simple qui reçoit les données fournies par l'utilisateur et visualiser le résultat après certaines calculations. 
 
 - type: Autres experiences
-  name: Professionel
+  name:
   content:
   - title: Asistant de directeur de projet
     sub: China CAMC Engineering Co., Ltd. 
     duration: "mai 2011 - mai 2017"
-    summary: Exploitation du marché et exécution des projets en Génie Civil principalement dans les pays africains.
+    summary: Exploitation du marché et exécution des projets de génie civil principalement dans les pays africains.
 
 #others 其他简略内容(列表)
 others: #其他列表显示
