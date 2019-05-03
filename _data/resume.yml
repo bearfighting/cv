@@ -55,7 +55,7 @@ main: #简历主要内容，
   - title: Cadre d'application
     summary: connaissance de base pour Flask et Spring Boot
 
-- type: Expérience
+- type: Trauvaux pratiques
   content:
   - title: C
     sub: Jeu de platforme
