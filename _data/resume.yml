@@ -37,7 +37,7 @@ main: #简历主要内容，
   - title: Université de Hebei 
     duration: sep 2003 - jul 2007
     sub: Langage de littérature francaise
-    detail: Diplôme de bacalaureat
+    detail: Diplôme du bacalaureat
 
 - type: skills
   # name: "技能"
