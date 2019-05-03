@@ -39,18 +39,22 @@ main: #简历主要内容，
     sub: Langage de littérature francaise
     detail: Diplôme du bacalaureat de science langage
 
-- type: skills
+- type: Techniques informatique
   # name: "技能"
   content:
-  - title: langue de 
+  - title: Langue de programmation
     items: #itmems 可以小块的方式显示
     - Java
     - C
     - C++
     - Python 
     - JavaScript
-  - title: Skill Group
-    summary: Consectetur, Adipiscing, Elit
+  - title: Base de donnée
+    summary: Oracle
+  - title: Paradigme de programmation
+    summary: Programmation orientée objet et une base de programmation fonctionelle
+  - title: Cadre d'application
+    summary: connaissance de base pour Flask et Spring Boot
 
 - type: experience
   name: 经验
