@@ -12,8 +12,8 @@ contact: #联系方式连接等3~5行
 - text: "bk491078@ens.uqam.ca" #文本内容
   href: 'bk491078@ens.uqam.ca' #链接，无链接则空  
   icon: 'icons/email.svg' #图标 svg文件
-- text: "1234567890"
-  href: 'tel:1234567890'
+- text: "514-5755652"
+  href: 'tel:5145755652'
   icon: 'icons/phone.svg'
 - text: "https://bearfighting.github.io/"
   href: 'https://bearfighting.github.io/'
@@ -27,11 +27,11 @@ contact: #联系方式连接等3~5行
 
 #main下面是主体内容，类别条数不限
 main: #简历主要内容，
-- type: education #类别为ID
+- type: Formations #类别为ID
   name: 教育 #显示名称，空则使用type
   content: #内容基本格式 标题-副标题-日期-详细内容 (都允许空)
-  - title: 大学名称
-    duration: "2011年x月 - 2015年"
+  - title: Université du Québec à Montréal
+    duration: "De 2018.01 à présent"
     sub: 地点或学历
     detail: 专业或者简短说明
   - title: Your University
