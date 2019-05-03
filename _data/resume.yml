@@ -37,12 +37,12 @@ main: #简历主要内容，
   - title: Université de Hebei 
     duration: sep 2003 - jul 2007
     sub: Langage de littérature francaise
-    detail: Diplôme du bacalaureat
+    detail: Diplôme du bacalaureat de science langage
 
 - type: skills
   # name: "技能"
   content:
-  - title: 编程语言
+  - title: langue de 
     items: #itmems 可以小块的方式显示
     - 汉语
     - 语言2
