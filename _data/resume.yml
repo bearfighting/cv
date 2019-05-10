@@ -61,6 +61,8 @@ main: #简历主要内容，
     summary: Bootstrap
   - title: Base de donnée
     summary: Oracle MongoDB PostgreSQL
+  - title: Editeur/IDE
+    summary: Visual Studio Code vim Intellij Idea Clion
   - title: Paradigme de programmation
     summary: Programmation orientée objet et une base de programmation fonctionelle
 
