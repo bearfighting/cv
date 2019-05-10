@@ -91,7 +91,7 @@ main: #简历主要内容，
   content:
   - title: Paradigme de programmation
     summary: 1. Un grand intérêt pour la programmation fonctionnelle. L'études personnelle continue des langages fonctionnelles Scala et clojure. 
-    2. Et l'étude courant des patrons de conception orienté objet
+    summary: 2. Et l'étude courant des patrons de conception orienté objet
 
 - type: Autres experiences
   name:
