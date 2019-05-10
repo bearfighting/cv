@@ -52,17 +52,21 @@ main: #简历主要内容，
   content:
   - title: Java
 #     items: Java #itmems 可以小块的方式显示
-    summary: Spring Boot Java Swing
+    summary: Spring Boot, Java Swing, Junit
   - title: C/C++
     summary: C++11 STL SDL
   - title: JavaScript
-    summary: React Redux 
+    summary: ES5 ES6 React Redux 
   - title : HTML CSS
     summary: Bootstrap
   - title: Base de donnée
     summary: Oracle MongoDB PostgreSQL
   - title: Editeur/IDE
-    summary: Visual Studio Code vim Intellij Idea Clion
+    summary: Visual Studio Code, vim, Intellij Idea, Clion
+  - title: Outils compilation
+    summary: make cmake gradle
+  - title: Version contrôle
+    summary: Git
   - title: Paradigme de programmation
     summary: Programmation orientée objet et une base de programmation fonctionelle
 
