@@ -27,7 +27,6 @@ contact: #联系方式连接等3~5行
 
 #main下面是主体内容，类别条数不限
 main: #简历主要内容，
-
 - type: Langues
   - title: Chinois
     summary: Langue maternel
