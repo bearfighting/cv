@@ -39,7 +39,7 @@ main: #简历主要内容，
 - type: Formations #类别为ID
   content: #内容基本格式 标题-副标题-日期-详细内容 (都允许空)
   - title: Université du Québec à Montréal
-    duration: "jan 2017 - présent"
+    duration: "jan 2018 - présent"
     sub: Informatique et génie logiciel
     detail: 
   - title: Université de Hebei 
