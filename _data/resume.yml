@@ -30,11 +30,11 @@ main: #简历主要内容，
 - type: Langues
   content: 
   - title: Chinois
-    summary: Langue maternel
+    sub: Langue maternel
   - title: Français
-    summary: Bon niveau
+    sub: Bon niveau
   - title: Anglais
-    summary: Scolaire
+    sub: Scolaire
 
 - type: Formations #类别为ID
   content: #内容基本格式 标题-副标题-日期-详细内容 (都允许空)
