@@ -59,6 +59,8 @@ main: #简历主要内容，
     summary: ES5 ES6 React Redux 
   - title : HTML CSS
     summary: Bootstrap
+  - title: Langue de Modélisation
+    summary: UML OCL
   - title: Base de donnée
     summary: Oracle MongoDB PostgreSQL
   - title: Editeur/IDE
