@@ -27,6 +27,15 @@ contact: #联系方式连接等3~5行
 
 #main下面是主体内容，类别条数不限
 main: #简历主要内容，
+
+- type: Langues
+  - title: Chinois
+    summary: Langue maternel
+  - title: Français
+    summary: Bon niveau
+  - title: Anglais
+    summary: Scolaire
+
 - type: Formations #类别为ID
   content: #内容基本格式 标题-副标题-日期-详细内容 (都允许空)
   - title: Université du Québec à Montréal
@@ -43,24 +52,21 @@ main: #简历主要内容，
   content:
   - title: Java
 #     items: Java #itmems 可以小块的方式显示
-    - Spring Boot 
-    - Java Swing
+    summary: Spring Boot Java Swing
   - title: C/C++
-    - STL
-    - SDL
+    summary: C++11 STL SDL
   - title: JavaScript
-    - React
-    - Redux
+    summary: React Redux 
   - title : HTML CSS
-    - C++
-    - Python 
-    - JavaScript
+    summary: Bootstrap
   - title: Base de donnée
     summary: Oracle MongoDB PostgreSQL
   - title: Paradigme de programmation
     summary: Programmation orientée objet et une base de programmation fonctionelle
-  - title: Cadre d'application
-    summary: connaissance de base pour Flask et Spring Boot
+
+- type: Exercices Codage
+  - title: Leecode
+    summary: plus de 120 problèmes ont été résolus.
 
 - type: Trauvaux pratiques
   content:
