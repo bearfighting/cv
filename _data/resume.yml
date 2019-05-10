@@ -67,7 +67,8 @@ main: #简历主要内容，
     summary: Programmation orientée objet et une base de programmation fonctionelle
 
 - type: Exercices Codage
-  - title: Leecode
+  content:
+  - title: Leetcode
     summary: plus de 120 problèmes ont été résolus.
 
 - type: Trauvaux pratiques
