@@ -83,9 +83,14 @@ main: #简历主要内容，
   - title: C++
     sub: Arbre AVL
     summary: Une réalisation de Map STL en Arbre AVL et son application.
-  - title: En Java
+  - title: Java
     sub: Application en Java Swing
     summary: Une application simple qui reçoit les données fournies par l'utilisateur et visualiser le résultat après certaines calculations. 
+    
+- type: Autres
+  content:
+  - title: Paradigme de programmation
+    summary: 1. Un grand intérêt pour la programmation fonctionnelle. L'études personnelle continue des langages fonctionnelles Scala et clojure. Et l'étude courant des patrons de conception orienté objet
 
 - type: Autres experiences
   name:
