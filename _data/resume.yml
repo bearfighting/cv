@@ -101,6 +101,11 @@ main: #简历主要内容，
     sub: China CAMC Engineering Co., Ltd. 
     duration: "mai 2011 - mai 2017"
     summary: Exploitation du marché et exécution des projets de génie civil principalement dans les pays africains.
+    
+  - title: Interprète et Agent de commerce
+    sub: China Henan International Co., Ltd.
+    summary: Exécution des projets de génie civil au Sénégal.
+    detail: Interprète de français-chinois, agent de commerce en s'engagant des affaires import-export.
 
 #others 其他简略内容(列表)
 others: #其他列表显示
