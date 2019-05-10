@@ -69,8 +69,6 @@ main: #简历主要内容，
     summary: Make Cmake Gradle
   - title: Version contrôle
     summary: Git
-  - title: Paradigme de programmation
-    summary: Programmation orientée objet et une base de programmation fonctionelle
 
 - type: Exercices Codage
   content:
