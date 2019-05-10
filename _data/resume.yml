@@ -42,7 +42,7 @@ main: #简历主要内容，
   # name: "技能"
   content:
   - title: Langue de programmation
-    items: #itmems 可以小块的方式显示
+    items: Java #itmems 可以小块的方式显示
     - Java
     - C
     - C++
