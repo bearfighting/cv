@@ -43,13 +43,20 @@ main: #简历主要内容，
   content:
   - title: Langue de programmation
     items: Java #itmems 可以小块的方式显示
-    - Java
-    - C
+    - Spring Boot 
+    - Java Swing
+    items: C/C++
+    - STL
+    - SDL
+    items: JavaScript
+    - React
+    - Redux
+    items: HTML CSS
     - C++
     - Python 
     - JavaScript
   - title: Base de donnée
-    summary: Oracle
+    summary: Oracle MongoDB PostgreSQL
   - title: Paradigme de programmation
     summary: Programmation orientée objet et une base de programmation fonctionelle
   - title: Cadre d'application
