@@ -89,9 +89,10 @@ main: #简历主要内容，
     
 - type: Autres
   content:
-  - title: Paradigme de programmation
-    summary: 1. Un grand intérêt pour la programmation fonctionnelle. L'études personnelle continue des langages fonctionnelles Scala et clojure. 
-    summary: 2. Et l'étude courant des patrons de conception orienté objet
+  - title: Programmation fonctionnelle
+    summary: Un grand intérêt pour la programmation fonctionnelle. L'études personnelle continue des langages fonctionnelles Scala et clojure.
+  - title: Patron de conception
+    summary: L'étude personnelle des patrons de conception orienté objet et la mise en œuvre plusieurs patrons dans les travaux pratiques.
 
 - type: Autres experiences
   name:
