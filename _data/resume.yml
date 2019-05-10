@@ -41,17 +41,17 @@ main: #简历主要内容，
 - type: Techniques informatique
   # name: "技能"
   content:
-  - title: Langue de programmation
-    items: Java #itmems 可以小块的方式显示
+  - title: Java
+#     items: Java #itmems 可以小块的方式显示
     - Spring Boot 
     - Java Swing
-    items: C/C++
+  - title: C/C++
     - STL
     - SDL
-    items: JavaScript
+  - title: JavaScript
     - React
     - Redux
-    items: HTML CSS
+  - title : HTML CSS
     - C++
     - Python 
     - JavaScript
