@@ -69,6 +69,8 @@ main: #简历主要内容，
     summary: Make Cmake Gradle
   - title: Version contrôle
     summary: Git
+  - title: Environement de développement
+    summary: Unix/Linux MacOS Windows
 
 - type: Exercices Codage
   content:
