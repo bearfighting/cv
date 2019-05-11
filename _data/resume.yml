@@ -100,13 +100,12 @@ main: #简历主要内容，
   - title: Asistant de directeur de projet
     sub: China CAMC Engineering Co., Ltd. 
     duration: "mai 2011 - mai 2017"
-    summary: Exploitation du marché et exécution des projets de génie civil principalement dans les pays africains.
+    summary: 1. Exploitation du marché et exécution des projets de génie civil principalement dans les pays africains. 2. Affaires d'import et export en s'occupant tout le processus du transport et le dédouanement dans les pays différents
     
   - title: Interprète et Agent de commerce
     sub: China Henan International Co., Ltd.
     duration: "jul 2007 - fev 2011"
-    summary: Exécution des projets de génie civil au Sénégal.
-    detail: Interprète de français-chinois, agent de commerce en s'engagant des affaires import-export.
+    summary: 1. Interprète de français-chinois pour les réunion technique et commerce. 2. Agent de commerce en s'engagant des affaires import-export.
 
 #others 其他简略内容(列表)
 others: #其他列表显示
