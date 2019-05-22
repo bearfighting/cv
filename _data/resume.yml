@@ -9,8 +9,8 @@ photo: "" #照片可空，不显示
 
 #联系方式
 contact: #联系方式连接等3~5行
-- text: "bk491078@ens.uqam.ca" #文本内容
-  href: 'bk491078@ens.uqam.ca' #链接，无链接则空  
+- text: "xing.wenfeng@courrier.uqam.ca" #文本内容
+  href: 'xing.wenfeng@courrier.uqam.ca' #链接，无链接则空  
   icon: 'icons/email.svg' #图标 svg文件
 - text: "514-5755652"
   href: 'tel:5145755652'
