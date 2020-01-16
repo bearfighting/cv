@@ -53,6 +53,7 @@ main: #简历主要内容，
   - title: Java
 #     items: Java #itmems 可以小块的方式显示
     summary: Spring Boot, Java Swing, Junit
+    summary: Spring Boot, Java Swing, Junit
   - title: C/C++
     summary: C++11 STL SDL
   - title: JavaScript
