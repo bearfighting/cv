@@ -77,10 +77,10 @@ main: #简历主要内容，
   - title: Environement de développement
     summary: Unix/Linux MacOS Windows
 
-- type: Exercices Codage
+- type: Stage et expérience profesionnelle 
   content:
-  - title: Leetcode
-    summary: Plus de 120 problèmes ont été résolus.
+  - title: développeur en logiciel de systèmes avions à CAE
+    summary: 1. coder pour les nouvelles fonctions de systèmes. 2. Déboguer et fixer les snags. 3. maitenance des codes existants.
 
 - type: Trauvaux pratiques
   content:
