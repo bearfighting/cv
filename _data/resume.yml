@@ -52,8 +52,8 @@ main: #简历主要内容，
   content:
   - title: Java
 #     items: Java #itmems 可以小块的方式显示
-#     summary: Spring Boot, Java Swing, Junit
-    items: heihei
+    summary: Spring Boot, Java Swing, Junit
+#     items: heihei
   - title: C/C++
     summary: C++11 STL SDL
   - title: JavaScript
@@ -84,6 +84,9 @@ main: #简历主要内容，
 
 - type: Trauvaux pratiques
   content:
+  - title: Javascript
+    sub: Carte de montréal
+    summary: 1. une application de Web qui contient une carte de Montréal. On peut consulter les arrêts de bus, les bixis et les jardins sur la carte. les informations des bus et les bicyclettes s'offrent à temps réel. 2. Le front-end est développé avec React et le back-end avec ExpressJs.
   - title: C
     sub: Jeu de platforme
     summary: Un jeu simple réalisé avec le cadre d'application de SDL2 en C.
