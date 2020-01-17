@@ -47,23 +47,27 @@ main: #简历主要内容，
     sub: Langage de littérature francaise
     detail: Diplôme du bacalaureat de science langage
 
-- type: Techniques informatique
+- type: Languages de programmation
   # name: "技能"
   content:
   - title: Java
 #     items: Java #itmems 可以小块的方式显示
-    summary: Spring Boot, Java Swing, Junit
+#     summary: Spring Boot, Java Swing, Junit
     items: heihei
   - title: C/C++
     summary: C++11 STL SDL
   - title: JavaScript
     summary: ES5 ES6 React Redux 
+- type: Languages informatiques
+  content:
   - title : HTML CSS
     summary: Bootstrap
   - title: Langue de Modélisation
     summary: UML OCL
   - title: Base de donnée
     summary: Oracle MongoDB PostgreSQL
+- type: Outils et logiciels
+  content:
   - title: Editeur/IDE
     summary: Visual Studio Code, Vim, Intellij Idea, Clion
   - title: Outils compilation
