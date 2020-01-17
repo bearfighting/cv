@@ -80,7 +80,19 @@ main: #简历主要内容，
 - type: Stage et expérience profesionnelle 
   content:
   - title: développeur en logiciel de systèmes avions à CAE
+    sub: CAE
+    duration: "septembre 2019 - décembre 2019"
     summary: 1. coder pour les nouvelles fonctions de systèmes. 2. Déboguer et fixer les snags. 3. maitenance des codes existants.
+    
+  - title: Asistant de directeur de projet
+    sub: China CAMC Engineering Co., Ltd. 
+    duration: "mai 2011 - mai 2017"
+    summary: 1. Exploitation du marché et exécution des projets de génie civil principalement dans les pays africains. 2. Affaires d'import et export en s'occupant tout le processus du transport et le dédouanement dans les pays différents
+    
+  - title: Interprète et Agent de commerce
+    sub: China Henan International Co., Ltd.
+    duration: "jul 2007 - fev 2011"
+    summary: 1. Interprète de français-chinois pour les réunion technique et commerce. 2. Agent de commerce en s'engagant des affaires import-export.
 
 - type: Trauvaux pratiques
   content:
@@ -104,18 +116,18 @@ main: #简历主要内容，
   - title: Patron de conception
     summary: L'étude personnelle des patrons de conception orienté objet et la mise en œuvre plusieurs patrons dans les travaux pratiques.
 
-- type: Autres experiences
-  name:
-  content:
-  - title: Asistant de directeur de projet
-    sub: China CAMC Engineering Co., Ltd. 
-    duration: "mai 2011 - mai 2017"
-    summary: 1. Exploitation du marché et exécution des projets de génie civil principalement dans les pays africains. 2. Affaires d'import et export en s'occupant tout le processus du transport et le dédouanement dans les pays différents
+# - type: Autres experiences
+#   name:
+#   content:
+#   - title: Asistant de directeur de projet
+#     sub: China CAMC Engineering Co., Ltd. 
+#     duration: "mai 2011 - mai 2017"
+#     summary: 1. Exploitation du marché et exécution des projets de génie civil principalement dans les pays africains. 2. Affaires d'import et export en s'occupant tout le processus du transport et le dédouanement dans les pays différents
     
-  - title: Interprète et Agent de commerce
-    sub: China Henan International Co., Ltd.
-    duration: "jul 2007 - fev 2011"
-    summary: 1. Interprète de français-chinois pour les réunion technique et commerce. 2. Agent de commerce en s'engagant des affaires import-export.
+#   - title: Interprète et Agent de commerce
+#     sub: China Henan International Co., Ltd.
+#     duration: "jul 2007 - fev 2011"
+#     summary: 1. Interprète de français-chinois pour les réunion technique et commerce. 2. Agent de commerce en s'engagant des affaires import-export.
 
 #others 其他简略内容(列表)
 others: #其他列表显示
