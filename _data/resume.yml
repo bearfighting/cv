@@ -41,10 +41,7 @@ main: #简历主要内容，
   - title: Université du Québec à Montréal
     duration: "jan 2018 - présent"
     sub: Informatique et génie logiciel
-  - title: Date de graduation prévue
-    sub: Avril 2020
-  - title: Moyenne cumulative 
-    sub: 3.23
+    detail: La date de gradution est prévu à l'Avril 2020 avec la moyenne cumulative de 3.23 actuelle 
   - title: Université de Hebei 
     duration: sep 2003 - jul 2007
     sub: Langage de littérature francaise
